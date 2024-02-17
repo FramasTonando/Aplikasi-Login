@@ -1,7 +1,9 @@
-# Aplikasi-Login
-Aplikasi login sederhana menggunakan bahasa html, css, dan Javascript
+# Latihan kolaborasi antar pengguna github
+Repository ini digunakan sebagai media latihan untuk berkolaborasi antara pengguna github.  
+Jika anda tertarik untuk menjadi kolaborator, silakan lakukan PR(pull-request) pada berkas ini ya.  
 
-Alur Fitur Login:
-1. Memasukkan email dan password
-2. Memvalidasi masukan.
-3. Menampilkan halaman home.
+Silahkan gunakan format berikut:  
+**\* Nama, [Linkedin/Github/website](url).**  
+
+Berikut adalah daftar kolaborator yang diterima:  
+* test kolaborator [kolaborator.github.io](https://testkolaborator.com).  
