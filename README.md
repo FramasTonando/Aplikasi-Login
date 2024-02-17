@@ -7,3 +7,4 @@ Silahkan gunakan format berikut:
 
 Berikut adalah daftar kolaborator yang diterima:  
 * test kolaborator [kolaborator.github.io](https://testkolaborator.com).  
+* Kanna Kamui [Linkedin](linkedin.com)
